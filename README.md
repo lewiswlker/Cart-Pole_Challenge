@@ -3,7 +3,7 @@ Cart-pole Challenge是一个由Matlab代码编写的仿真环境，本项目是�
 <div align="left">
 <img src=https://gitee.com/coralab/ic-challenge/raw/master/Cart-Pole/pics/cart-pole.png width=800%/>
 </div>
-上面的代码还缺少movie文件夹，可以参考[Cart-Pole](https://gitee.com/coralab/ic-challenge/tree/master/Cart-Pole)下载从而完成补充。
+上面的代码还缺少movie文件夹，可以参考[Cart-Pole](https://gitee.com/coralab/ic-challenge/tree/master/Cart-Pole)，下载从而完成补充。
 
 
 ## 1. 倒立摆模型
