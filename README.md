@@ -13,17 +13,6 @@ Cart-pole Challenge是一个由Matlab代码编写的仿真环境，本项目是�
 </div>
 注：文中分析和仿真中的模型角度$\theta$都是定义为杆子与竖直向下方向的夹角
 
-摆立摆的动力学模型是一个非线性模型，如下所示
-
-$
-\begin{array}{c}
-(M+m)\ddot{x}+b\dot{x}+ml\ddot{\theta}\cos\theta-ml\dot{\theta}^{2}\sin\theta=F\\
-(I+ml^{2})\ddot{\theta}+mgl\sin\theta=-ml\ddot{x}\cos\theta
-\end{array}
-$
-
-
-其中，$M,m$分别是小车和杆子质量，$b$为地面摩擦力，$x$是小车位移，$\theta$为杆子与竖直向下方向的夹角，$F$作用在小车上水平方向的力，$I$为杆子转动惯量。
 
 另外仿真环境对小车作用设置了“饱和”机制（如下图所示），即挑战者传递给仿真器的小车作用力，将会被限制在一定范围内。
 
