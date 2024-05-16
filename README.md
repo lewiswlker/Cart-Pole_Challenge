@@ -11,7 +11,8 @@ Cart-pole Challenge是一个由Matlab代码编写的仿真环境，本项目是�
 <div align="left">
 <img src=https://gitee.com/coralab/ic-challenge/raw/master/Cart-Pole/pics/cart-pole-model.jpeg width=30%/>
 </div>
-注：文中分析和仿真中的模型角度$\theta$都是定义为杆子与竖直向下方向的夹角
+
+
 
 
 另外仿真环境对小车作用设置了“饱和”机制（如下图所示），即挑战者传递给仿真器的小车作用力，将会被限制在一定范围内。
